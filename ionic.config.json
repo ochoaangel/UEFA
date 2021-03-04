@@ -1,0 +1,7 @@
+{
+  "name": "UEFA",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
